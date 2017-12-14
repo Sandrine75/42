@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+first_name = " Sandrine "
+print first_name
+last_name = " Gautier "
+print last_name
+
